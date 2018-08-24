@@ -1,6 +1,6 @@
 # Extended Latent Dirichlet Allocation model to presence/absence data
 
-[Publication](https://onlinelibrary.wiley.com/doi/pdf/10.1111/gcb.14412)
+[Publication](https://onlinelibrary.wiley.com/doi/pdf/10.1111/gcb.14412) | [North American Breeding Bird Survey (BBS) Dataset](https://www.pwrc.usgs.gov/bbs/RawData/)
 
 ```
 Valle, D., Albuquerque, P.,Zhao, Q., Barberan, A., Fletcher Jr, R.J. (2018) "Extending the Latent Dirichlet Allocation
